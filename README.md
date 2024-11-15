@@ -1,2 +1,3 @@
-# yifir
-sjheiflewokf;lewk;pk
+# king
+this is my first git
+
